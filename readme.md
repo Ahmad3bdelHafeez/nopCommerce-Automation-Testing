@@ -1,4 +1,4 @@
-# NopCommerce Automation Project
+# nopCommerce Automation Project
 
 This project automates the testing of the nopCommerce website using Selenium, Cucumber, and ExtentReports. The tests cover various functionalities of the nopCommerce website to ensure it operates as expected.
 
