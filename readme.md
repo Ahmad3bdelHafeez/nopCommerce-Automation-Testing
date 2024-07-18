@@ -39,12 +39,12 @@ The HTML report is located at:
 ```
 reports 18-Jul-24 00-48-28/test-output/HTML/[HTML]nopCommerce-Automation-Testing-Report.html
 ```
-You can view the detailed PDF report [here]([https://example.com/report.pdf](https://github.com/Ahmad3bdelHafeez/nopCommerce-Automation-Testing/blob/master/reports%2018-Jul-24%2014-31-34/test-output/PDF/%5BPDF%5DnopCommerce-Automation-Testing-Report.pdf)
+You can view the detailed PDF report [here](https://github.com/Ahmad3bdelHafeez/nopCommerce-Automation-Testing/blob/master/reports%2018-Jul-24%2014-31-34/test-output/PDF/%5BPDF%5DnopCommerce-Automation-Testing-Report.pdf)
 And the PDF report is located at:
 ```
 reports 18-Jul-24 00-48-28/test-output/PDF/[PDF]nopCommerce-Automation-Testing-Report.pdf
 ```
-You can view the detailed PDF report [here]([https://example.com/report.pdf](https://github.com/Ahmad3bdelHafeez/nopCommerce-Automation-Testing/blob/master/reports%2018-Jul-24%2014-31-34/test-output/HTML/%5BHTML%5DnopCommerce-Automation-Testing-Report.html)
+You can view the detailed PDF report [here](https://github.com/Ahmad3bdelHafeez/nopCommerce-Automation-Testing/blob/master/reports%2018-Jul-24%2014-31-34/test-output/HTML/%5BHTML%5DnopCommerce-Automation-Testing-Report.html)
 
 Open these files in your web browser to view the detailed test results, including screenshots taken during the tests.
 
